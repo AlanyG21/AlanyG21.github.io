@@ -1,8 +1,8 @@
 ## Welcome to AlanyG21's infoblog
 
-Hi
+Hi, my name is Alany
+I'm just a friendly chilean trans-girl that loves Linux
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
